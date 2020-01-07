@@ -1,4 +1,6 @@
 results/*
 *.png
 *.svg
+src/looper
+src/pypiper
 
